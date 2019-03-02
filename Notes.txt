@@ -1,0 +1,6 @@
+Notes:
+------
+1. backup original rc.lua and theme.lua
+NOPE: 2. copy https://raw.githubusercontent.com/warptozero/awesome-autostart/master/autostart.lua into ~/.config/awesome
+3. copy over new theme, rc, and pchip_scripts lua files
+4. restart
